@@ -15,3 +15,8 @@
 	4. *dpkg指令安装deb包*  
 	5. *使用源码编译安装*
 ---
+
+**附录**：*Ubuntu系统安装成功截图*  
+- ![5d4436ff0f006f3cf194952981c88975.png](https://ice.frostsky.com/2024/09/15/5d4436ff0f006f3cf194952981c88975.png)
+
+- ![5876c04f5912940f974a393812bf2767.png](https://ice.frostsky.com/2024/09/15/5876c04f5912940f974a393812bf2767.png)

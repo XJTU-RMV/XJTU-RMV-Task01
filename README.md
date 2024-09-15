@@ -17,7 +17,6 @@
 ---
 
 **附录**：*Ubuntu系统安装成功截图*  
-- ![d2365389ccc0e92db7ee35c20b22195a.png](https://ice.frostsky.com/2024/09/15/d2365389ccc0e92db7ee35c20b22195a.png)
-
+- ![1efacbff45170f216babe3ae1a90eb65.png](https://ice.frostsky.com/2024/09/15/1efacbff45170f216babe3ae1a90eb65.png)
 
 - ![5d4436ff0f006f3cf194952981c88975.png](https://ice.frostsky.com/2024/09/15/5d4436ff0f006f3cf194952981c88975.png)

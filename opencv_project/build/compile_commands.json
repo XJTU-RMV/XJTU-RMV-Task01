@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/mu/opencv_project/build",
+  "command": "/usr/bin/g++   -isystem /usr/local/include/opencv4  -g   -o CMakeFiles/opencv_project.dir/src/main.cpp.o -c /home/mu/opencv_project/src/main.cpp",
+  "file": "/home/mu/opencv_project/src/main.cpp"
+}
+]

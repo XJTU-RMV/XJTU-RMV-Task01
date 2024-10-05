@@ -100,8 +100,12 @@ int main(int argc, char** argv)
         double tolerance = 0.05; // 5% 收敛阈值
         bool converged = false;
         auto start_time = std::chrono::high_resolution_clock::now();
-         while (!converged) { 
+        int max_iterations = 100; // 最大迭代次数
+        int iteration = 0;
+
+         while (!converged&& iteration < max_iterations) { 
         ceres::Solve(options, &problem, &summary);
+        iteration++;
         // 计算拟合值与真值的差值
         double fitted_A = params[0];
         double fitted_w = params[1];
